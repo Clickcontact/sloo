@@ -32,8 +32,7 @@ The Symfony Standard Edition and Sloo Core Edition comes pre-configured with the
   ([documentation](http://symfony.com/doc/current/bundles/SensioGeneratorBundle/index.html))
 
 --------------------------------
-and
--------------------------------
+
 
 
 * **DoctrineFixturesBundle** - The fixtures doctrine bundle
