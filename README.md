@@ -30,7 +30,12 @@ The Symfony Standard Edition and Sloo Core Edition comes pre-configured with the
   and working with Symfony distributions
 * **SensioGeneratorBundle** (in dev/test env) - Adds code generation capabilities
   ([documentation](http://symfony.com/doc/current/bundles/SensioGeneratorBundle/index.html))
-========================
+
+--------------------------------
+and
+-------------------------------
+
+
 * **DoctrineFixturesBundle** - The fixtures doctrine bundle
 * **FOSUserBundle** - Adds functionality for user management
 * **SlooUserBundle** - A user bundle extended
